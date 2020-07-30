@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gomoku/static/css/main.b166b15d.chunk.css",
+    "main.js": "/gomoku/static/js/main.ebc0b4ca.chunk.js",
+    "main.js.map": "/gomoku/static/js/main.ebc0b4ca.chunk.js.map",
+    "runtime-main.js": "/gomoku/static/js/runtime-main.fb3ea8af.js",
+    "runtime-main.js.map": "/gomoku/static/js/runtime-main.fb3ea8af.js.map",
+    "static/js/2.eb64546d.chunk.js": "/gomoku/static/js/2.eb64546d.chunk.js",
+    "static/js/2.eb64546d.chunk.js.map": "/gomoku/static/js/2.eb64546d.chunk.js.map",
+    "index.html": "/gomoku/index.html",
+    "precache-manifest.b3912b3758ef97e272e77620f279ac80.js": "/gomoku/precache-manifest.b3912b3758ef97e272e77620f279ac80.js",
+    "service-worker.js": "/gomoku/service-worker.js",
+    "static/css/main.b166b15d.chunk.css.map": "/gomoku/static/css/main.b166b15d.chunk.css.map",
+    "static/js/2.eb64546d.chunk.js.LICENSE.txt": "/gomoku/static/js/2.eb64546d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb3ea8af.js",
+    "static/js/2.eb64546d.chunk.js",
+    "static/css/main.b166b15d.chunk.css",
+    "static/js/main.ebc0b4ca.chunk.js"
+  ]
+}
